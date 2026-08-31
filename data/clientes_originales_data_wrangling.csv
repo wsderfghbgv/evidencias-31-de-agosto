@@ -1,0 +1,124 @@
+﻿ID,Nombre,Edad,Ciudad,Genero,Categoria,Compras,ValorCompra,Estado
+CLI-1001,Gonzalo Jiménez,69.0, Cali ,f,ESTANDAR,7.0,12000000.0,activo
+CLI-1002,Sebastián Franco,28.0,bogotá,f,ESTANDAR,4.0,6800000.0, Inactivo 
+CLI-1003,Luis Martínez,39.0,bucaramanga,Femenino,premium,12.0,4200000.0,ACTIVO
+CLI-1004,Felipe Osorio,50.0,Cali, F ,  Estándar  ,13.0,8900000.0,Activo
+CLI-1005,Esteban Marín,59.0,Quibdó,M,Premium,4.0,8900000.0,activo
+CLI-1006,Camilo Sesto,68.0,Bogotá,masculino, Premium ,7.0,850000.0, Activo 
+CLI-1007,Nicolás Montoya,31.0,QUIBDO, F , Premium ,10.0,3100000.0,ACTIVO
+CLI-1008,Natalia Rojas,45.0, Cali ,m,premium,3.0,450000.0, Activo 
+CLI-1009,Beatriz Pinzón,21.0,medellin,femenino,  Estándar  ,10.0,-50000.0,Inactivo
+CLI-1010,Mariana Salazar,43.0,Cali,Femenino,estandar,14.0,6800000.0,inactivo
+CLI-1011,Sebastián Franco,74.0,bogota,masculino,vip,0.0,3100000.0, Inactivo 
+CLI-1012,Paula Beltrán,42.0,cali, M ,VIP,9.0,5500000.0,Activo
+CLI-1013,Elena Paredes,12.0,Cali,f,premium,11.0,1200000.0,Activo
+CLI-1014,Valentina Torres,52.0,Medelin,Masculino,ESTANDAR,10.0,5500000.0,ACTIVO
+CLI-1015,Juliana Suárez,24.0,BOGOTA,f,vip,1.0,5500000.0,INACTIVO
+CLI-1016,Elena Paredes,54.0,Medelin,f,  Estándar  ,11.0,1200000.0,Activo
+CLI-1017,,52.0,  Medellín  ,M,VIP,5.0,12000000.0,INACTIVO
+CLI-1018,Daniela Mendoza,56.0,BOGOTA, F ,Estándar,7.0,-1500000.0, Activo 
+CLI-1019,Diana Uribe,120.0,  Medellín  ,m,Premium,13.0,2200000.0,Inactivo
+CLI-1020,Diana Uribe,24.0, Quibdó ,femenino,vip,10.0,8900000.0,Inactivo
+CLI-1021,Laura Hernández,45.0,,F,Premium,12.0,8900000.0,INACTIVO
+CLI-1022,Hernán Cortés,18.0,Bucaramanga, M ,Estándar,0.0,5500000.0,inactivo
+CLI-1023,Valentina Torres,,BOGOTA,masculino,VIP,3.0,12000000.0, Activo 
+CLI-1024,Elena Paredes,32.0,  Bucaramanga ,f, Premium ,4.0,450000.0,inactivo
+CLI-1025,Sofia Vargas,56.0,medellin,,Estándar,1.0,3100000.0,Activo
+CLI-1026,Alejandro Ríos,17.0,quibdo,Femenino,vip,12.0,4200000.0,INACTIVO
+CLI-1027,Camilo Sesto,49.0,Medellín,Masculino,Estándar,14.0,-50000.0,Inactivo
+CLI-1028,Paula Beltrán,49.0,medellín,m,estandar,7.0,6800000.0,activo
+CLI-1029,Alejandro Ríos,55.0,cartagena,masculino,,4.0,850000.0,inactivo
+CLI-1030,Lucía Benítez,28.0,Quibdó,Masculino, Premium ,12.0,4200000.0, Inactivo 
+CLI-1031,Samuel Giraldo,20.0,Bucaramanga,F,Estándar,-2.0,12000000.0,activo
+CLI-1032,David Guerrero,37.0,Bogotá,F, Premium ,1.0,6800000.0, Inactivo 
+CLI-1033,Gonzalo Jiménez,35.0,bogota,Masculino, Premium ,0.0,8900000.0,ACTIVO
+CLI-1034,,40.0,  Bogotá ,M,Premium,12.0,12000000.0, Inactivo 
+CLI-1035,Ana Gómez,18.0,Quibdó,masculino,ESTANDAR,11.0,5500000.0,Activo
+CLI-1036,Óscar Córdoba,36.0,Quibdó,M,estandar,8.0,-50000.0, Inactivo 
+CLI-1037,Hernán Cortés,41.0,Bucaramanga,Masculino,premium,,2200000.0,inactivo
+CLI-1038,Beatriz Pinzón,120.0,Medelin, M ,Estándar,9.0,850000.0, Inactivo 
+CLI-1039,Mariana Salazar,15.0,  Bucaramanga ,M, Premium ,4.0,450000.0, Activo 
+CLI-1040,Hernán Cortés,31.0,bucaramanga,F,premium,8.0,5500000.0,activo
+CLI-1041,Alejandro Ríos,50.0,Quibdó,M,  Estándar  ,7.0,,inactivo
+CLI-1042,Valeria Cepeda,55.0,,femenino,Estándar,6.0,6800000.0,activo
+CLI-1043,Esteban Marín,51.0,bucaramanga,Masculino,VIP,5.0,1200000.0,
+CLI-1044,María Rodríguez,52.0,quibdo,Masculino,ESTANDAR,0.0,4200000.0,activo
+CLI-1045,Camilo Sesto,41.0,quibdo,masculino,Estándar,12.0,-1500000.0, Activo 
+CLI-1046,Felipe Osorio,,Cartagena,Masculino,Estándar,2.0,8900000.0,ACTIVO
+CLI-1047,Jorge Isaacs,71.0,Medelin,f,premium,2.0,4200000.0,INACTIVO
+CLI-1048,Ana Gómez,44.0,  Bogotá ,Femenino,VIP,8.0,450000.0,Activo
+CLI-1049,Gonzalo Jiménez,46.0,  Bogotá ,m,Estándar,2.0,8900000.0, Inactivo 
+CLI-1050,Mateo Espinosa,24.0,MEDELLIN,,estandar,1.0,6800000.0, Inactivo 
+CLI-1051,,63.0,Quibdó,M,Premium,12.0,850000.0,ACTIVO
+CLI-1052,Diana Uribe,17.0,  Bucaramanga , F ,  Estándar  ,1.0,2200000.0,ACTIVO
+CLI-1053,Laura Hernández,32.0,  Bucaramanga ,masculino,VIP,8.0,3100000.0, Activo 
+CLI-1054,Juan López,56.0,MEDELLIN,femenino,estandar,14.0,-3200000.0,activo
+CLI-1055,Beatriz Pinzón,69.0,Quibdó,Femenino,Estándar,0.0,450000.0, Inactivo 
+CLI-1056,David Guerrero,45.0,Cartagena, F ,ESTANDAR,10.0,3100000.0,inactivo
+CLI-1057,Sebastián Franco,150.0,BOGOTA,masculino,VIP,10.0,12000000.0,Activo
+CLI-1058,Gloria Valencia,49.0,  Bucaramanga , M ,,8.0,3100000.0,Activo
+CLI-1059,Isabella Silva,56.0,  Medellín  ,femenino,Premium,3.0,12000000.0, Inactivo 
+CLI-1060,Camilo Sesto,39.0,CALI,masculino,VIP,14.0,2200000.0,Inactivo
+CLI-1061,Sofia Vargas,33.0,Quibdó,masculino,Premium,4.0,450000.0,inactivo
+CLI-1062,Valeria Cepeda,54.0,Cartagena, F ,  Estándar  ,-2.0,3100000.0, Activo 
+CLI-1063,Gloria Valencia,69.0,, F ,Estándar,10.0,-1500000.0, Inactivo 
+CLI-1064,Juan López,62.0,MEDELLIN,f,Premium,2.0,450000.0, Activo 
+CLI-1065,Diana Uribe,17.0,Bucaramanga,f,vip,3.0,450000.0,Activo
+CLI-1066,Camilo Sesto,29.0,Medelin,Masculino,VIP,0.0,6800000.0,ACTIVO
+CLI-1067,Samuel Giraldo,30.0,Cali,Femenino,Estándar,2.0,1200000.0,INACTIVO
+CLI-1068,,34.0,bogota, F ,vip,3.0,8900000.0,INACTIVO
+CLI-1069,María Rodríguez,,bucaramanga,Femenino,premium,4.0,8900000.0,Inactivo
+CLI-1070,Ximena Hoyos,27.0,  Medellín  , M ,premium,3.0,450000.0,activo
+CLI-1071,Ximena Hoyos,35.0,quibdo,m,premium,7.0,3100000.0, Activo 
+CLI-1072,Mateo Espinosa,40.0,Medelin, M ,VIP,1.0,-50000.0, Activo 
+CLI-1073,Nicolás Montoya,39.0,cali,M,VIP,4.0,8900000.0,activo
+CLI-1074,Sofia Vargas,26.0,Bogotá,F,Estándar,,12000000.0,INACTIVO
+CLI-1075,Isabella Silva,70.0,  Medellín  ,,Estándar,12.0,8900000.0, Activo 
+CLI-1076,Felipe Osorio,105.0,Cartagena, M ,Premium,13.0,3100000.0,ACTIVO
+CLI-1077,Gonzalo Jiménez,31.0,  Medellín  ,M,Premium,0.0,850000.0,INACTIVO
+CLI-1078,Sofia Vargas,12.0,  Bogotá , F ,VIP,13.0,4200000.0,INACTIVO
+CLI-1079,Mateo Espinosa,57.0,  Bogotá , M ,vip,11.0,12000000.0,ACTIVO
+CLI-1080,Juan López,46.0,  Medellín  ,femenino,Estándar,8.0,450000.0,inactivo
+CLI-1081,Alejandro Ríos,24.0,cali,F,estandar,6.0,-3200000.0,activo
+CLI-1082,Gonzalo Jiménez,44.0,  Bogotá , F ,Estándar,7.0,,inactivo
+CLI-1083,Luis Martínez,62.0,cali,Femenino,estandar,12.0,6800000.0,Inactivo
+CLI-1084,Gonzalo Jiménez,18.0,,M, Premium ,12.0,450000.0,Activo
+CLI-1085,,73.0,Medellín,femenino,ESTANDAR,6.0,12000000.0, Activo 
+CLI-1086,Diana Uribe,62.0, Cali ,masculino,  Estándar  ,5.0,3100000.0,
+CLI-1087,Ximena Hoyos,52.0, Quibdó ,F,,9.0,850000.0,INACTIVO
+CLI-1088,Daniela Mendoza,32.0,Medellín,masculino,  Estándar  ,0.0,4200000.0,activo
+CLI-1089,Isabella Silva,40.0,bogotá, F ,premium,6.0,6800000.0, Activo 
+CLI-1090,Valentina Torres,45.0,MEDELLIN, F ,premium,10.0,-50000.0, Activo 
+CLI-1091,Juliana Suárez,0.0,BOGOTA,F,  Estándar  ,1.0,8900000.0,Activo
+CLI-1092,Natalia Rojas,,cali,M,  Estándar  ,2.0,1200000.0, Inactivo 
+CLI-1093,Juan López,64.0,medellin, F ,premium,-2.0,850000.0,activo
+CLI-1094,Juan López,72.0,cartagena,Masculino,  Estándar  ,1.0,850000.0, Inactivo 
+CLI-1095,Diego Ramírez,105.0,  Bucaramanga ,Masculino,VIP,2.0,8900000.0,activo
+CLI-1096,Carlos Pérez,38.0,Quibdó,m,  Estándar  ,12.0,450000.0,Inactivo
+CLI-1097,Jorge Isaacs,22.0,medellín,M,ESTANDAR,7.0,3100000.0,Inactivo
+CLI-1098,Camilo Sesto,27.0,  Bogotá ,M,VIP,5.0,8900000.0,inactivo
+CLI-1099,Carlos Pérez,68.0,cali,F,VIP,0.0,-1500000.0, Inactivo 
+CLI-1100,Diana Uribe,51.0,bogota,,Premium,10.0,12000000.0,ACTIVO
+CLI-1101,Luis Martínez,67.0,Cali,Masculino,  Estándar  ,12.0,3100000.0,inactivo
+CLI-1102,,47.0,quibdo,m,ESTANDAR,5.0,850000.0,activo
+CLI-1103,Gonzalo Jiménez,55.0,medellin,femenino,vip,2.0,850000.0,inactivo
+CLI-1104,Gabriel Ruiz,17.0, Quibdó ,Femenino,estandar,9.0,4200000.0,Activo
+CLI-1105,Elena Paredes,32.0,,m,Estándar,1.0,3100000.0,Inactivo
+CLI-1106,María Rodríguez,27.0,cartagena,Masculino,VIP,12.0,2200000.0, Inactivo 
+CLI-1107,Juan López,51.0,medellín,masculino,vip,13.0,1200000.0,INACTIVO
+CLI-1108,Sebastián Franco,72.0,Quibdó,femenino,premium,4.0,-1500000.0,activo
+CLI-1109,Diana Uribe,20.0,QUIBDO, F ,Estándar,3.0,3100000.0,Inactivo
+CLI-1110,Mariana Salazar,45.0,  Bogotá ,femenino,ESTANDAR,0.0,4200000.0,Activo
+CLI-1111,Juan López,58.0,Cali, F ,vip,,450000.0,inactivo
+CLI-1112,Paula Beltrán,62.0,BOGOTA, F , Premium ,9.0,4200000.0,INACTIVO
+CLI-1113,Valeria Cepeda,60.0,Quibdó,Masculino,estandar,1.0,6800000.0,Activo
+CLI-1114,Óscar Córdoba,105.0,Bucaramanga,f,  Estándar  ,14.0,12000000.0, Activo 
+CLI-1115,Sebastián Franco,,CALI,f,vip,13.0,12000000.0,inactivo
+CLI-1006,Camilo Sesto,68.0,Bogotá,masculino, Premium ,7.0,850000.0, Activo 
+CLI-1013,Elena Paredes,12.0,Cali,f,premium,11.0,1200000.0,Activo
+CLI-1025,Sofia Vargas,56.0,medellin,,Estándar,1.0,3100000.0,Activo
+CLI-1039,Mariana Salazar,15.0,  Bucaramanga ,M, Premium ,4.0,450000.0, Activo 
+CLI-1046,Felipe Osorio,,Cartagena,Masculino,Estándar,2.0,8900000.0,ACTIVO
+CLI-1061,Sofia Vargas,33.0,Quibdó,masculino,Premium,4.0,450000.0,inactivo
+CLI-1079,Mateo Espinosa,57.0,  Bogotá , M ,vip,11.0,12000000.0,ACTIVO
+CLI-1091,Juliana Suárez,0.0,BOGOTA,F,  Estándar  ,1.0,8900000.0,Activo
